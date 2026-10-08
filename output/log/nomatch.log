@@ -35,6 +35,7 @@ Chuzhou Science & Education Channel (400p),http://live.cztv.cc:85/live/sjpd.m3u8
 CND Film Discovery Channel (576p),http://125.210.152.18:9090/live/FXZL_750.m3u8
 CND Film Middle School Channel,http://live2.rxip.sc96655.com/live/zxs_4000.m3u8
 Documentary Humanities Channel (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+Dongguan Comprehensive News Channel,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 Dunhuang TV (1080p),http://117.156.28.119/270000001111/1110000028/index.m3u8
 Fengshang Shopping Channel (1080p),http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
@@ -107,3 +108,17 @@ Tianjin TV (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index
 Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 TV BRICS Chinese (1080p),https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 VoA TV China (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+Xi'an Business Information Channel (180p) [Not 24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
+Xi'an Silk Road Channel (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
+Xinjiang TV 1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
+Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
+Xinjiang TV 3,http://110.153.180.106:55555/out_2/index.m3u8
+Xinjiang TV 8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8
+Xizang TV Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
+Xizang TV Tibetan (720p) [Not 24/7],http://php.jdshipin.com:8880/xztv.php
+Xuzhou Economic Life Channel (1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+Yanbian Satellite TV (576p),http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
+You Man Cartoon Channel (576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+Yunnan Satellite TV (1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+Zhejiang International Channel,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+Zhejiang Satellite TV (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
